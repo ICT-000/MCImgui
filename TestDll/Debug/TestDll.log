@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Imed\source\repos\TestDll\TestDll\dllmain.cpp(58,31): warning C4244:  '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Imed\source\repos\TestDll\TestDll\dllmain.cpp(59,32): warning C4244:  '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Imed\source\repos\TestDll\TestDll\dllmain.cpp(159,4): warning C4102:  'ret': unreferenced label
+C:\Users\Imed\source\repos\TestDll\TestDll\dllmain.cpp(120,8): warning C4101:  'oof': unreferenced local variable
+C:\Users\Imed\source\repos\TestDll\TestDll\dllmain.cpp(166,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\Imed\source\repos\TestDll\TestDll\dllmain.cpp(168,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  see declaration of 'freopen'
+C:\Users\Imed\source\repos\TestDll\TestDll\dllmain.cpp(169,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl2.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  see declaration of 'freopen'
