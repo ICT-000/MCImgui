@@ -268,7 +268,7 @@ void main()
 	BYPASS();
 	std::thread jew(StartConsole);
 	ImGui::CreateContext();
-	auto hMinecraft = FindWindow(TEXT("GLFW30"), NULL);
+	auto hMinecraft = FindWindow(TEXT("JLEWG"), NULL);
 	ImGui_ImplWin32_Init(hMinecraft);
 	ImGui_ImplOpenGL2_Init();
 	oWndProc = (pWindowProc)SetWindowLongPtr(hMinecraft, GWLP_WNDPROC, (LONG_PTR)hWndProc);
